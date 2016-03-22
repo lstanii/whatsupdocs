@@ -1,0 +1,9 @@
+source 'https://github.com/CocoaPods/Specs.git'
+source 'https://github.com/lstanii/SpecRepo.git'
+
+inhibit_all_warnings!
+
+use_frameworks!
+pod 'FileCenter'
+pod 'CryptoSwift'
+pod 'RichEditorView'

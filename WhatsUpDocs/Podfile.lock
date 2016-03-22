@@ -1,0 +1,16 @@
+PODS:
+  - CryptoSwift (0.2.3)
+  - FileCenter (1.0.0)
+  - RichEditorView (3.2.0)
+
+DEPENDENCIES:
+  - CryptoSwift
+  - FileCenter
+  - RichEditorView
+
+SPEC CHECKSUMS:
+  CryptoSwift: b2bf37b8e7cc6d682ef3365cb966bc5ae5174aa5
+  FileCenter: ebc70d97850f376a5152d4fc644f4af91386a1f3
+  RichEditorView: b4ee60a4f5301cbe8f3fcb1f065cdd7de74ddd10
+
+COCOAPODS: 0.38.2

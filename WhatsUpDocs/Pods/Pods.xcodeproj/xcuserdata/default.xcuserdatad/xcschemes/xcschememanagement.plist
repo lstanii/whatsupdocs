@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>CryptoSwift.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>FileCenter.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>RichEditorView.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>47B600D6C208F1CC98819B7DCE43AEF1</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>6473BF1608D1152824F2478C9543B3E2</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>98D7F0C4CDE308DCC04F73FBB2CBAFBB</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>CE5E76ED9EA241D43CCEC36AA9836455</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
